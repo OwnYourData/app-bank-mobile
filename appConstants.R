@@ -4,4 +4,4 @@
 # constants required for every app
 appTitle <- 'Kontoentwicklung'
 app_id <- 'eu.ownyourdata.bank'
-desktopUrl <- 'https://kontoentwicklung.datentresor.org'
+desktopUrl <- 'https://kontoentwicklung.oydapp.eu'
